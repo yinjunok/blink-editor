@@ -1,0 +1,9 @@
+.bl-editor {
+  border: 1px solid #eee;
+  padding: 4px;
+}
+
+.bl-editor p {
+  height: 1.5em;
+  line-height: 1.5em;
+}
